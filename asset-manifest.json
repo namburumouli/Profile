@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/namburumouli/Profile/static/css/main.63c13c13.chunk.css",
+    "main.js": "/namburumouli/Profile/static/js/main.c671625d.chunk.js",
+    "main.js.map": "/namburumouli/Profile/static/js/main.c671625d.chunk.js.map",
+    "runtime-main.js": "/namburumouli/Profile/static/js/runtime-main.8dcbaee6.js",
+    "runtime-main.js.map": "/namburumouli/Profile/static/js/runtime-main.8dcbaee6.js.map",
+    "static/js/2.d0864aef.chunk.js": "/namburumouli/Profile/static/js/2.d0864aef.chunk.js",
+    "static/js/2.d0864aef.chunk.js.map": "/namburumouli/Profile/static/js/2.d0864aef.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/namburumouli/Profile/static/css/3.df879eac.chunk.css",
+    "static/js/3.a06f6d27.chunk.js": "/namburumouli/Profile/static/js/3.a06f6d27.chunk.js",
+    "static/js/3.a06f6d27.chunk.js.map": "/namburumouli/Profile/static/js/3.a06f6d27.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/namburumouli/Profile/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.27d3e721.chunk.js": "/namburumouli/Profile/static/js/4.27d3e721.chunk.js",
+    "static/js/4.27d3e721.chunk.js.map": "/namburumouli/Profile/static/js/4.27d3e721.chunk.js.map",
+    "index.html": "/namburumouli/Profile/index.html",
+    "precache-manifest.20311133e942b169f16bebd385a798b4.js": "/namburumouli/Profile/precache-manifest.20311133e942b169f16bebd385a798b4.js",
+    "service-worker.js": "/namburumouli/Profile/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/namburumouli/Profile/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/namburumouli/Profile/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.63c13c13.chunk.css.map": "/namburumouli/Profile/static/css/main.63c13c13.chunk.css.map",
+    "static/js/2.d0864aef.chunk.js.LICENSE.txt": "/namburumouli/Profile/static/js/2.d0864aef.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/namburumouli/Profile/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/codeInLogo.webp": "/namburumouli/Profile/static/media/codeInLogo.47a7a717.webp",
+    "static/media/contactMailDark.svg": "/namburumouli/Profile/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/namburumouli/Profile/static/media/developerActivity.59389695.svg",
+    "static/media/googleAssistantLogo.webp": "/namburumouli/Profile/static/media/googleAssistantLogo.e79c6392.webp",
+    "static/media/logo_gitam.jpg": "/namburumouli/Profile/static/media/logo_gitam.7c71c882.jpg",
+    "static/media/nextuLogo.webp": "/namburumouli/Profile/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/pwaLogo.webp": "/namburumouli/Profile/static/media/pwaLogo.ee62cb58.webp",
+    "static/media/saayaHealthLogo.webp": "/namburumouli/Profile/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/namburumouli/Profile/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/namburumouli/Profile/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dcbaee6.js",
+    "static/js/2.d0864aef.chunk.js",
+    "static/css/main.63c13c13.chunk.css",
+    "static/js/main.c671625d.chunk.js"
+  ]
+}
